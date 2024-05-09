@@ -1,0 +1,43 @@
+[
+ 
+{
+  "id": 1,
+  "role": "SDE 1",
+  "organisation": "Coding Ninja",
+  "startDate": "Sept, 2023",
+  "endDate": "Present",
+  "location": "Gurugram",
+  "experiences": [
+  "TA Intern at CodingNinjas, New Delhi, June 2023 – August 2023",
+  "Conducted doubt sessions and assisted students in debugging code.",
+  "Assisted students with their assignments and various projects."
+  ],
+  "imageSrc": "company/codingNinja (1).png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
